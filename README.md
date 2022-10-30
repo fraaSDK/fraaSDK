@@ -1,7 +1,8 @@
 ## About me
 - 👨🏻‍💻 Hi, I’m @**fraaSDK** *(Spaghetti Developement Kit)*
-- 🍝 I'm from Italy
-- 🌱 I’m currently learning **Java**
+- 🏢 Student at **Alma Mater Studiorum - University of Bologna**
+- 📍 From Italy
+- 🌱 Currently learning **Java**
 ### My favourite quotes
 > Write once, debug everywhere.<br>
 > -[Jeff Delaney](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
