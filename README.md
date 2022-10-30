@@ -1,5 +1,5 @@
 ## About me
-- 👨🏻‍💻 Hi, I’m @**fraaSDK** *(Spaghetti Developement Kit)*
+- 👨🏻‍💻 Hi, I’m @**fraaSDK** *(Spaghetti Development Kit)*
 - 🏢 Student at **Alma Mater Studiorum - University of Bologna**
 - 📍 From Italy
 - 🌱 Currently learning **Java**
